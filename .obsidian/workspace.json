@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "2024-09-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "2024-09-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "2024-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md"
+                "file": "2024-09-24.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
+    "Cours/Algo/Algo 23-09-2024.md",
+    "2024-09-24.md",
+    "Cours/Algo/Untitled.md",
     "Pasted image 20240923113256.png",
-    "Cours/Algo/Algo 10-09-2024.md",
     "fonction.md",
     "Cours/Module A/Séance 1.md",
     "Cours/Module A/Séance 2.md",
