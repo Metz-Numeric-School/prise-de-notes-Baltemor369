@@ -51,3 +51,51 @@ Redémarre le serveur apache2
 
 `systemctl status apache2`
 Affiche le statu du serveur apache2
+
+`sudo usermod -l new_name old_name`
+Changer le nom d'utilisateur old_name en new_name
+
+`sudo passwd root`
+Permet de changer le mdp d'un utilisateur (ou le root)
+
+## GLPI agent
+
+[GLPI agent](https://github.com/glpi-project/glpi-agent/releases)
+[FusionInventory Agent](https://github.com/fusioninventory/fusioninventory-agent/releases/tag/2.6) **Depreciate**
+
+## Maintenance
+
+### niveau :
+1. action simple (ex : nettoyage matériel)
+2. opération majeur (ex : )
+3. opération avec diagnostic (ex : )
+4. travaux importants maintenance (ex : )
+5. rénovation réparation (ex : remplacement de serveur)
+
+### Type de maintenance
+
+- corrective : d'une défaillance 
+	- Réparation : résoudre le problème (curative)
+	- Dépannage : en attente de réparation (palliative, provisoire)
+- préventive : réduire probabilité de défaillance
+	- systématique : périodicité
+	- conditionnelle : Si ... alors intervention demandée
+
+### Coût d'une panne
+
+- Direct :
+	- Temps passé
+	- Pièces de remplacement
+	- Intervention prestataire extérieur
+- Indirect :
+	- recyclage de pièce rebuté
+	- reprise/retouche
+	- perte prod pendant arrêt
+	- pénalité retard livraison
+	- coût main d'oeuvre inoccupée panne
+
+PCA : Plan Continuité de l'Activité
+PCI : Plan Continuité de l'Informatique
+avoir un serveur qui une copie conforme et continue du premier server. si un tombe l'autre reprend la main.
+
+### planification sur GLPI
