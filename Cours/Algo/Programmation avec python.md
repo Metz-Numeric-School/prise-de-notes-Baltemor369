@@ -1,4 +1,5 @@
-## Algorithmie avec python
+
+## Fondements
 
 **convention nommage**
 PascalCase

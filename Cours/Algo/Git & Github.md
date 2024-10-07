@@ -1,5 +1,4 @@
-
-## Git & Github
+## Quelques Commandes
 
 **git add .**
 Ajoute tous les fichiers 

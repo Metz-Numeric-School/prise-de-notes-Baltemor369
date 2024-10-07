@@ -1,4 +1,4 @@
-## Gestion de parc informatique
+## Info
 
 Service Informatique sert à gérer les problèmes dans le réseau d'une entreprise.
 

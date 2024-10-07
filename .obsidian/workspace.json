@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Procedure/GLPI.md",
+                "file": "Cours/Algo/Git & Github.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Procedure/GLPI.md",
+                "file": "Cours/Algo/Git & Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Procedure/GLPI.md",
+                "file": "Cours/Algo/Git & Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Procedure/GLPI.md",
+                "file": "Cours/Algo/Git & Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Procedure/GLPI.md"
+                "file": "Cours/Algo/Git & Github.md"
               }
             }
           }
@@ -170,15 +170,18 @@
   },
   "active": "59f323e4b0da9ba6",
   "lastOpenFiles": [
-    "2024-09-30.md",
-    "2024-09-25.md",
-    "2024-09-24.md",
-    "Cours/Algo/Algo 23-09-2024.md",
-    "Cours/Procedure/GLPI.md",
+    "Cours/Réseau/Cloud Computing.md",
     "Certifications.md",
+    "Cours/Réseau",
+    "Cours/Management/Gestion de projet.md",
+    "Cours/Management",
+    "Cours/Windows/Gestion de parc informatique.md",
+    "Cours/Algo/Programmation avec python.md",
+    "Cours/Windows/GLPI.md",
+    "Cours/Algo/Git & Github.md",
     "README.md",
     "Pasted image 20240923113256.png",
-    "Cours/Procedure",
+    "Cours/Windows",
     "Cours/Module A/Séance 1.md",
     "Cours/Module A/Séance 2.md",
     "Veille/Ressources web.md",
@@ -192,7 +195,6 @@
     "ALGO/Sommaire.md",
     "Welcome.md",
     "ALGO",
-    "CSS",
-    "HTML"
+    "CSS"
   ]
 }
