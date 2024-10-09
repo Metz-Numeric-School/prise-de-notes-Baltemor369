@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Algo/Git & Github.md",
+                "file": "Culture Juridique.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Algo/Git & Github.md",
+                "file": "Culture Juridique.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Algo/Git & Github.md",
+                "file": "Culture Juridique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Algo/Git & Github.md",
+                "file": "Culture Juridique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Algo/Git & Github.md"
+                "file": "Culture Juridique.md"
               }
             }
           }
@@ -168,17 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59f323e4b0da9ba6",
+  "active": "6c948228a6c79cce",
   "lastOpenFiles": [
+    "Réseaux.md",
+    "Culture Juridique.md",
+    "Cryptage.md",
     "Cours/Réseau/Cloud Computing.md",
+    "Cours/errors",
     "Certifications.md",
+    "Cours/Windows/Gestion de parc informatique.md",
+    "Cours/Algo/Git & Github.md",
     "Cours/Réseau",
     "Cours/Management/Gestion de projet.md",
     "Cours/Management",
-    "Cours/Windows/Gestion de parc informatique.md",
     "Cours/Algo/Programmation avec python.md",
     "Cours/Windows/GLPI.md",
-    "Cours/Algo/Git & Github.md",
     "README.md",
     "Pasted image 20240923113256.png",
     "Cours/Windows",
@@ -194,7 +198,6 @@
     "Cours",
     "ALGO/Sommaire.md",
     "Welcome.md",
-    "ALGO",
-    "CSS"
+    "ALGO"
   ]
 }

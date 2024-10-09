@@ -1,7 +1,13 @@
 
-# What's ?
+# What's it ?
 
 Une mise à disposition d'infrastructure server au service des autres sous location. Ce service est utilisable en fonction du besoin pour une meilleur adaption au production variables. Cette flexibilité améliore les factures pour les entreprises qui utilise AWS périodiquement/cycliquement en évitant une perte d'argent par la consommation de la tech inutilement, avec le cloud, les services sont utilisé seulement si il y a le besoin, et uniquement le temps d'utilisation est facturé.
+
+# Grand Nom
+
+1. AWS (Amazon)
+2. Azure (Microsoft)
+3. Google Drive (Google)
 
 # Différents services 
 
@@ -18,12 +24,6 @@ Software As A Service  SAAS (?)
 * mise en réseau & diffusion de contenu
 * gestion & gouvernance
 * gestion des couts AWS
-
-# Grand Nom
-
-1. AWS (Amazon)
-2. Azure (Microsoft)
-3. Google Drive (Google)
 
 # Coût
 
