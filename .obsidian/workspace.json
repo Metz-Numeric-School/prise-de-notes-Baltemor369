@@ -6,23 +6,7 @@
       {
         "id": "e91d754db468afaf",
         "type": "tabs",
-        "dimension": 51.995163240628784,
         "children": [
-          {
-            "id": "59f323e4b0da9ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Réseau/Cloud Computing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Cloud Computing"
-            },
-            "group": "ca2d2aa162796665"
-          },
           {
             "id": "f01a9202241a0581",
             "type": "leaf",
@@ -31,34 +15,33 @@
               "state": {
                 "file": "Cours en ligne.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Cours en ligne"
-            }
+            },
+            "group": "ce31d261379566e1"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "ff00af0f7348244f",
+        "id": "665ffdaed90e4e7b",
         "type": "tabs",
-        "dimension": 48.004836759371216,
         "children": [
           {
-            "id": "21992120666206af",
+            "id": "8879252f378372b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Réseau/Cloud Computing.md",
-                "mode": "source",
-                "source": false
+                "file": "Cours en ligne.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Cloud Computing"
+              "title": "Cours en ligne"
             },
-            "group": "ca2d2aa162796665"
+            "group": "ce31d261379566e1"
           }
         ]
       }
@@ -201,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f01a9202241a0581",
+  "active": "8879252f378372b7",
   "lastOpenFiles": [
     "Cours/Juridique/Les Pouvoirs en France.md",
     "Cours/Culture juridique/Culture Juridique.md",

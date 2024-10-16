@@ -41,9 +41,7 @@
 
 ### Python & scripting
 
-[os](https://docs.python.org/3/library/os.html) : 
-
-[sys](https://docs.python.org/3/library/sys.html) : 
+[os](https://docs.python.org/3/library/os.html) [sys](https://docs.python.org/3/library/sys.html) : 
 	Pour les opérations système, manipuler les fichiers et les variables d'environnement
 	
 [subprocess](https://docs.python.org/3/library/subprocess.html) : 
@@ -68,9 +66,7 @@
 
 [Scikit-learn](https://scikit-learn.org/stable/) :
 	
-[TensorFlow](https://www.tensorflow.org/guide?hl=fr) :
-	
-[Keras](https://keras.io/) :
+[TensorFlow](https://www.tensorflow.org/guide?hl=fr) [Keras](https://keras.io/) :
 	
 [PyTorch](https://pytorch.org/docs/stable/index.html) :
 	
