@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Juridique/Les Pouvoirs en France.md",
+                "file": "Cours/Réseau/Cloud Computing.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Juridique/Les Pouvoirs en France.md",
+                "file": "Cours/Réseau/Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Juridique/Les Pouvoirs en France.md",
+                "file": "Cours/Réseau/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Juridique/Les Pouvoirs en France.md",
+                "file": "Cours/Réseau/Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Juridique/Les Pouvoirs en France.md"
+                "file": "Cours/Réseau/Cloud Computing.md"
               }
             }
           }
@@ -170,8 +170,8 @@
   },
   "active": "59f323e4b0da9ba6",
   "lastOpenFiles": [
-    "Cours/Culture juridique/Culture Juridique.md",
     "Cours/Juridique/Les Pouvoirs en France.md",
+    "Cours/Culture juridique/Culture Juridique.md",
     "Cours en ligne.md",
     "Docker.md",
     "Cours/Windows/2024-10-15.md",
