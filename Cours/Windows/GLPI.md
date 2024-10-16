@@ -92,7 +92,7 @@ Permet de changer le mdp d'un utilisateur (ou le root)
 	- reprise/retouche
 	- perte prod pendant arrêt
 	- pénalité retard livraison
-	- coût main d'oeuvre inoccupée panne
+	- coût main d'œuvre inoccupée panne
 
 PCA : Plan Continuité de l'Activité
 PCI : Plan Continuité de l'Informatique
