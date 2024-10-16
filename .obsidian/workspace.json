@@ -17,11 +17,28 @@
                 "file": "Cours/Réseau/Cloud Computing.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Computing"
             },
             "group": "ca2d2aa162796665"
+          },
+          {
+            "id": "f01a9202241a0581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours en ligne.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cours en ligne"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ff00af0f7348244f",
@@ -37,7 +54,9 @@
                 "file": "Cours/Réseau/Cloud Computing.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Computing"
             },
             "group": "ca2d2aa162796665"
           }
@@ -61,7 +80,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -76,7 +97,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -84,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -107,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Réseau/Cloud Computing.md",
+                "file": "Cours en ligne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cours en ligne"
             }
           },
           {
@@ -124,10 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Réseau/Cloud Computing.md",
+                "file": "Cours en ligne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cours en ligne"
             }
           },
           {
@@ -138,7 +167,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -147,8 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Réseau/Cloud Computing.md"
-              }
+                "file": "Cours en ligne.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cours en ligne"
             }
           }
         ]
@@ -168,7 +201,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59f323e4b0da9ba6",
+  "active": "f01a9202241a0581",
   "lastOpenFiles": [
     "Cours/Juridique/Les Pouvoirs en France.md",
     "Cours/Culture juridique/Culture Juridique.md",
