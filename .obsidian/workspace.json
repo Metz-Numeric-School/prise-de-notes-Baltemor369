@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours en ligne.md",
+                "file": "Git & Github.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Cours en ligne"
+              "title": "Git & Github"
             },
             "group": "ce31d261379566e1"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours en ligne.md",
+                "file": "Git & Github.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Cours en ligne"
+              "title": "Git & Github"
             },
             "group": "ce31d261379566e1"
           }
@@ -184,16 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8879252f378372b7",
+  "active": "f01a9202241a0581",
   "lastOpenFiles": [
+    "Cours en ligne.md",
+    "Git & Github.md",
+    "Docker.md",
+    "Cryptage.md",
+    "Certifications.md",
     "Cours/Juridique/Les Pouvoirs en France.md",
     "Cours/Culture juridique/Culture Juridique.md",
-    "Cours en ligne.md",
-    "Docker.md",
     "Cours/Windows/2024-10-15.md",
-    "Certifications.md",
     "2024-10-16.md",
-    "Cryptage.md",
     "Cours/Réseau/Rappel.md",
     "Cours/Culture juridique",
     "Cours/English/2024-10-09.md",

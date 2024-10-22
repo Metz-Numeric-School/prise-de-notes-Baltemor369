@@ -61,6 +61,8 @@
 	
 [Seaborn](https://seaborn.pydata.org/) :
 	
+[plotly](https://dash.plotly.com/) :
+	
 
 ### Python & IA
 
