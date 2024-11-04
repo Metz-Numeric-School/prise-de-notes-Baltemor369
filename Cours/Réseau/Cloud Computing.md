@@ -31,3 +31,29 @@ Facture à l'heure ou seconde
 variable selon le type d'instance
 linux only
 
+# useful links
+
+**
+[http://www.vlsmcalc.com/](http://www.vlsmcalc.com/)
+**
+
+# Training
+
+172.16.0.0/23
+SALES 200 256
+R&D 50 64
+MGT 25 32
+IT 10 16
+PRINTERS 10 16
+SERVERS 10 16
+
+172.16.0.0 : network address
+172.16.0.1 : broadcast
+172.16.0.2 : gateaway
+
+172.16.0.5 -> 172.16.0.255 : SALES (256)
+172.16.1.0 -> 172.16.0.63 : R&D (64)
+172.16.1.64 -> 172.16.1.95 : MGT (32)
+172.16.1.96 -> 172.16.1.111 : IT (16)
+172.16.1.112 -> 172.16.1.127 : PRINTERS (16)
+172.16.1.128 -> 172.16.1.143 : SERVERS (16)

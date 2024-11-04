@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Windows/2024-10-15.md",
+                "file": "Cours/Réseau/Rappel.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Windows/2024-10-15.md",
+                "file": "Cours/Réseau/Rappel.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 276.5
   },
   "right": {
     "id": "78f6df6de190eea1",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Windows/2024-10-15.md",
+                "file": "Cours/Réseau/Rappel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Windows/2024-10-15.md",
+                "file": "Cours/Réseau/Rappel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Windows/2024-10-15.md"
+                "file": "Cours/Réseau/Rappel.md"
               }
             }
           }
@@ -170,6 +170,8 @@
   },
   "active": "59f323e4b0da9ba6",
   "lastOpenFiles": [
+    "Cours/Réseau/Cloud Computing.md",
+    "Cours/Windows/2024-10-15.md",
     "Certifications.md",
     "2024-10-16.md",
     "Cryptage.md",
@@ -177,13 +179,11 @@
     "Cours/Réseau/Rappel.md",
     "Cours/Culture juridique/Culture Juridique.md",
     "Cours/Culture juridique",
-    "Cours/Windows/2024-10-15.md",
     "Cours/English/2024-10-09.md",
     "Cours/English/2024-10-14.md",
     "Cours/Windows/GLPI.md",
     "Cours/English",
     "Cours/Windows/Gestion de parc informatique.md",
-    "Cours/Réseau/Cloud Computing.md",
     "Cours/Management/Gestion de projet.md",
     "img/Pasted image 20241015155233.png",
     "img",
