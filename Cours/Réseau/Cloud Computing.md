@@ -7,7 +7,7 @@ Une mise à disposition d'infrastructure server au service des autres sous locat
 
 1. AWS (Amazon)
 2. Azure (Microsoft)
-3. Google Drive (Google)
+3. GCP (Google)
 
 # Différents services 
 
