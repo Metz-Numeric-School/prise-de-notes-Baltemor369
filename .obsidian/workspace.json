@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Réseau/Rappel.md",
+                "file": "2024-11-06.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Rappel"
+              "title": "2024-11-06"
             },
             "group": "56fdf867c0b694f2"
           },
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Réseau/Rappel.md",
-                "mode": "preview",
+                "file": "2024-11-06.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rappel"
+              "title": "2024-11-06"
             },
             "group": "56fdf867c0b694f2"
           }
@@ -198,10 +198,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcc6c3cdb660a373",
+  "active": "59f323e4b0da9ba6",
   "lastOpenFiles": [
-    "Cours/Réseau/Cloud Computing.md",
     "Cours/Réseau/Rappel.md",
+    "2024-11-06.md",
+    "Cours/Réseau/Cloud Computing.md",
     "Cours en ligne.md",
     "Certifications.md",
     "Git & Github.md",
@@ -239,7 +240,6 @@
     "fonction.md",
     "Cours/Algo",
     "Cours/Sans titre 1",
-    "ALGO/Sommaire.md",
-    "Welcome.md"
+    "ALGO/Sommaire.md"
   ]
 }
