@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/English/Writing test.md",
+                "file": "2024-11-13.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Writing test"
+              "title": "2024-11-13"
             },
             "group": "a4527a1bbeadfbe3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/English/Writing test.md",
+                "file": "2024-11-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing test"
+              "title": "2024-11-13"
             },
             "group": "a4527a1bbeadfbe3"
           }
@@ -184,8 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c948228a6c79cce",
+  "active": "048dc70805502c6c",
   "lastOpenFiles": [
+    "Cours/English/Writing test.md",
+    "2024-11-13.md",
     "Cours/Linux",
     "Cyber - notion à approfondir.md",
     "Cours/English/2024-11-12.md",
@@ -193,7 +195,6 @@
     "Cours/Management/2024-11-06.md",
     "Cours/Management/Gestion de projet.md",
     "Cours/English/Untitled.md",
-    "Cours/English/Writing test.md",
     "Cours/Réseau/Rappel.md",
     "Cours/Juridique/Untitled.md",
     "Cours/Juridique/Les Pouvoirs en France.md",
@@ -225,7 +226,6 @@
     "Cours/Algo/Programmation avec python.md",
     "README.md",
     "Pasted image 20240923113256.png",
-    "Cours/Windows",
-    "Cours/Algo"
+    "Cours/Windows"
   ]
 }
