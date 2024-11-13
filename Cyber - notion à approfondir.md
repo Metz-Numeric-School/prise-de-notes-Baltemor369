@@ -51,3 +51,6 @@ ANSSI (Agence Nationale de la Sécurité des Systèmes d’information)
 Notification à la CNIL dans les 72 heures en cas d’atteinte à vos données 
 Déposer plainte dans les 72 heures en cas d’attaque cyber après en avoir eu connaissance (condition de garantie - article L. 12-10-1 du Code des Assurances)
 
+Active directory : 
+- Active Directory est une base de données hiérarchique et distribuée qui stocke des informations sur les objets de réseau, tels que les utilisateurs, les ordinateurs, les groupes, et les ressources. Il permet aux administrateurs de gérer de manière centralisée les identités, les droits d'accès, et les configurations pour l'ensemble d'une organisation.
+- Authentification + gestion user & group + Réplication(disponibilité) 
